@@ -1,4 +1,4 @@
-# DAAI_N3.03
+# DAAI_N3.3
 Đồ án nhập môn phân tích dữ liệu và AI
 
 1. Link: https://nguyentranduyhoang9a3.atlassian.net/jira/software/projects/MBA/boards/2?filter=&groupBy=none
